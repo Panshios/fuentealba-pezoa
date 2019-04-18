@@ -115,13 +115,13 @@ video{
 	min-height:300px;
 	text-align:right;
 	background-color:rgba(255,255,255, 1.00);
-	background-image:url('media/pulpopo.png');
+	background-image:url('media/pulpif1.png');
 	background-position:top left;
 	background-repeat:no-repeat;
 	background-size:auto 100%;
 }
 .segunda:hover{
-	background-image:url('media/pulpif.gif');
+	background-image:url('media/pulposo.gif');
 }
 
 .segunda h4{padding: 2% 2% 1% 40%;}
