@@ -25,7 +25,7 @@ var trabajos = [
     title: "Slime Mapping",
     about: "Prototipo para visualizar la idea de un videojuego arcade pixel interactivo que utiliza la técnica del video-mapping jugando con las perspectivas en distintas caras de una superficie tridimensional.",
 }, {
-    figure: "media/In the garden469.png",
+    figure: "media/In_the_garden469.png",
     title: "Programmed poster",
     about: "Poster creado a partir de processing, el cual se exporta al presionar click mientras que desarrolla la imagen a partir de la letra de la canción, nombre de la banda y canción.",
 }, {
