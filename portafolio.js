@@ -19,7 +19,7 @@ var trabajos = [
 }, {
     figure: "media/V-09.png",
     title: "Hollowmon",
-    about: "Set de dibujos que une el estilo visual del juego Hollow knight con especies del juego Pokémon.",
+    about: "Set de ilustraciones que une el estilo visual del juego Hollow knight con especies del juego Pokémon.",
 }, {
     figure: "media/IMG_4816.jpg",
     title: "Slime Mapping",
@@ -31,7 +31,7 @@ var trabajos = [
 }, {
     figure: "media/pf_nekochi.jpg",
     title: "Nekochi",
-    about: "Dispositivo portátil enfocado en el rescate de gatos frente a catástrofes ",
+    about: "Producto de hogar para gatos, que funciona de cama y como dispositivo de transporte de mascotas en casos de emergencia ",
 }
 ]
 // LUEGO CREAMOS PARTES DEL SITIO CON CADA DATO CONTENIDO EN LA VARIABLE
