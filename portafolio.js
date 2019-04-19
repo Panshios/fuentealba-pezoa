@@ -21,7 +21,7 @@ var trabajos = [
     title: "Hollowmon",
     about: "Set de ilustraciones que une el estilo visual del juego Hollow knight con especies del juego Pokémon.",
 }, {
-    figure: "media/IMG4816.jpg",
+    figure: "media/slime.jpg",
     title: "Slime Mapping",
     about: "Prototipo para visualizar la idea de un videojuego arcade pixel interactivo que utiliza la técnica del video-mapping jugando con las perspectivas en distintas caras de una superficie tridimensional.",
 }, {
